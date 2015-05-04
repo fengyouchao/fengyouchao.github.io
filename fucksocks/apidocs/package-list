@@ -1,0 +1,8 @@
+fucksocks.client
+fucksocks.common
+fucksocks.common.methods
+fucksocks.server
+fucksocks.server.filters
+fucksocks.server.io
+fucksocks.server.msg
+fucksocks.utils
